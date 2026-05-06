@@ -1,4 +1,4 @@
-# Sistema de Gestión de Lubricación Industrial — Planta Pastas
+
 
 ## 1. Definición del Negocio
 
